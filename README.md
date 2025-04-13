@@ -2,6 +2,7 @@
 Desarrollo aplicación con servicio REST
 
 Enrique Alexander Solano Lopez SL223188 
+
 Gladis del Carmen Rivas Miranda RM191684
 
 Este proyecto es una API RESTful construida con Java, Spring Boot, JPA, y H2, que permite gestionar clientes, productos y pedidos de una tienda. La API permite registrar, listar y consultar pedidos respetando reglas de negocio como stock, validaciones de datos y pagos.
