@@ -43,3 +43,6 @@ Estado permitido: PENDIENTE, EN PREPARACIÓN, ENTREGADO, CANCELADO
 Método de pago: EFECTIVO, TARJETA, TRANSFERENCIA
 
 para las pruebas se usa Postman para probar todos los endpoints. También usar Swagger si se agrega la dependencia para springdoc-openapi
+
+enlace de google drive, en caso de no funcionar lo subido a github: 
+https://drive.google.com/file/d/1zim6G8lGQZLrOwDn-lFRZfPvBKgm9vVx/view?usp=sharing
